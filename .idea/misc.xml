@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/drawable-v24/dark_home.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/drawable-v24/home_selector.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/drawable-v24/shadow_back.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/drawable/border_home.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/drawable/bottom_nav_selector.xml" value="0.17407407407407408" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/drawable/home.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/drawable/home_selector.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/drawable/ic_loader.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/drawable/ic_loading.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/drawable/newspaper.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/drawable/next.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/drawable/photo.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/drawable/planet_saturen.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/drawable/progress_bar.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/drawable/saturn.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/drawable/save.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/drawable/saved.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/drawable/un_save.xml" value="0.25833333333333336" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/layout/activity_main.xml" value="0.2421875" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/layout/fragment_browse.xml" value="0.2421875" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/layout/fragment_details.xml" value="0.2421875" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/layout/fragment_home.xml" value="0.2421875" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/layout/fragment_saved_item.xml" value="0.2421875" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/layout/fragment_today_photo.xml" value="0.2421875" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/layout/home.xml" value="0.2421875" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/layout/home_activity.xml" value="0.2" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/layout/news_item.xml" value="0.2421875" />
+        <entry key="..\:/Users/Noweto/AndroidStudioProjects/NasaClone/app/src/main/res/menu/bottom_nav.xml" value="0.2421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
